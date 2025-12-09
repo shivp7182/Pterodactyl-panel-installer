@@ -34,7 +34,7 @@ Perfect for hosting providers, beginners, and developers who want a **fast and s
 Run this command to install the panel automatically:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/pterodactyl/main/panel-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shivp7182/Pterodactyl-panel-installer/main/Pterodctyl%20One%20Click%20install.sh)
 ```
 
 ---
