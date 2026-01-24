@@ -24,13 +24,13 @@ set -e
 # https://github.com/pterodactyl-installer/pterodactyl-installer/blob/master/LICENSE #
 #                                                                                    #
 # This script is not associated with the official Pterodactyl Project.               #
-# https://github.com/pterodactyl-installer/pterodactyl-installer                     #
+# https://raw.githubusercontent.com/shivp7182/Pterodactyl-panel-installer/main/Pterodctyl%20One%20Click%20install.sh                     #
 #                                                                                    #
 ######################################################################################
 
 export GITHUB_SOURCE="v1.2.0"
 export SCRIPT_RELEASE="v1.2.0"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/pterodactyl-installer/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/shivp7182/Pterodactyl-panel-installer/main/Pterodctyl%20One%20Click%20install.sh"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
